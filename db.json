@@ -1,0 +1,27 @@
+{ "employee": [
+    {
+        "title":"Prakash Kumar",
+        "value":50,
+        "color": "#E38627"
+    },
+    {
+        "title":"Prakash",
+        "value":100,
+        "color": "#C13C37"
+    },
+    {
+        "title":"Aman Kumar",
+        "value":50,
+        "color":"red"
+    },
+    {
+        "title":"juli Kumari",
+        "value":100,
+        "color":"blue"
+    },
+    {
+        "title":"mnaju Kumari",
+        "value":50,
+        "color": "green"
+    }
+]}
